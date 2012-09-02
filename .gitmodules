@@ -1,0 +1,3 @@
+[submodule "boson-cookbooks"]
+	path = boson-cookbooks
+	url = https://github.com/jacobjervey/chef-boson.git
